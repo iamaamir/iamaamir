@@ -44,7 +44,7 @@ Aamir khan (New Delhi, India)
 
 ---
 
-## 🗺️ My Open source contributions
+## 📦 Projects
 
 <p align="left">
     <a href="https://github.com/iamaamir/boostme"><img width="282"
@@ -61,7 +61,7 @@ Aamir khan (New Delhi, India)
 <p align="left">
     <a href="https://github.com/iamaamir?tab=repositories&sort=stargazers"><img alt="All Repositories"
             title="All Repositories"
-            src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo" /></a>
+            src="https://custom-icon-badges.herokuapp.com/badge/-All%20Projects-F85D7F?style=for-the-badge&logoColor=white&logo=repo" /></a>
 </p>
 
 
