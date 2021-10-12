@@ -39,7 +39,6 @@ Aamir khan (New Delhi, India)
 -   📺 Working in OTT space
 -   ⚒️ Javascript, React, CSS
 -   🌱 Exploring BlockChain, Web Assembly & Functional Programing
--   🪓 Learning, building and breaking
 -   ❤️ UI/UX and web is a love
 
 ---
