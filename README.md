@@ -12,7 +12,7 @@ Your sincearly fellow programmer
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+Full-stack+web+developer;A+self-taught+programmer;Ready+to+learn+%2C+build+and+break;Love+UI%2FUX+And+hobbist+Photographer">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+Full-stack+web+developer;A+self-taught+programmer;Ready+to+learn+%2C+build+and+break;Love+UI%2FUX+And+a+hobbist+Photographer">
 </p>
 
 
@@ -30,7 +30,7 @@ Your sincearly fellow programmer
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=iamaamir&theme=dark&show_icons=true">
 
-Aamir khan (New Delhi, India).
+Aamir khan (New Delhi, India)
 
 -   🧑 Pronouns: he/him
 -   📺 Currently working in an OTT space
