@@ -10,10 +10,10 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/itsaamir/" title="Linkedin">
+<a href="https://www.linkedin.com/in/itsaamir/" target="_blank" title="Linkedin">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
- <a href="https://www.instagram.com/click_randomness/">
+ <a href="https://www.instagram.com/click_randomness/" target="_blank">
    <img src="https://img.shields.io/badge/click_randomness-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </p>
