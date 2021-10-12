@@ -23,6 +23,9 @@ Your sincearly fellow programmer
  <a href="https://www.instagram.com/click_randomness/" target="_blank">
    <img src="https://img.shields.io/badge/click_randomness-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
+  <a href="https://mailhide.io/en/e/PyWtbVg3" target="_blank">
+   <img src="https://img.shields.io/badge/Email%20Me-30B980?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 
