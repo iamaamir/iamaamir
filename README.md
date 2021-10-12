@@ -33,7 +33,7 @@ Your sincearly fellow programmer
 Aamir khan (New Delhi, India)
 
 -   🧑 Pronouns: he/him
--   📺 Currently working in an OTT space
+-   📺 Working in OTT space
 -   ⚒️ Javascript, React, CSS
 -   🌱 Exploring BlockChain, Web Assembly & Functional Programing
 -   🪓 Learning, building and breaking
