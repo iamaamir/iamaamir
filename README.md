@@ -36,7 +36,7 @@ Your sincearly fellow programmer
 Aamir khan (New Delhi, India)
 
 -   🧑 Pronouns: he/him
--   📺 Building Postman (IAM)
+-   🚀 Building Postman (IAM)
 -   ⚒️ Javascript, React, CSS
 -   🌱 Exploring BlockChain, Web Assembly & Functional Programing
 -   ❤️ UI/UX and web is a love
