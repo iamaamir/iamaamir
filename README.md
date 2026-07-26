@@ -103,7 +103,7 @@ also:       Hobbyist Photographer 📷
 
 - 📝 **[Correctly](https://github.com/iamaamir/Correctly)** - Minimalist AI-powered Chrome extension for grammar, spelling, and punctuation correction
 - 🔎 **[Manifest Lens](https://github.com/iamaamir/manifest-lens)** - MV3 Explainer for your manifest.json files.
-- 🧠 **[leetcode-coach](https://github.com/iamaamir/leetcode-coach)** — DSA prep, shipped in the open
+- 🌉 **[Pi-Bifrost](https://github.com/iamaamir/pi-bifrost)** - Automatic model routing for pi.
 - ⚡ **[Check all](https://github.com/iamaamir?tab=repositories)**
 
 ---
