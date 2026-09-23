@@ -102,8 +102,9 @@ also:       Hobbyist Photographer 📷
 > Things I'm actively building & learning in public:
 
 - 📝 **[Correctly](https://github.com/iamaamir/Correctly)** - Minimalist AI-powered Chrome extension for grammar, spelling, and punctuation correction
-- 🔎 **[Manifest Lens](https://github.com/iamaamir/manifest-lens)** - MV3 Explainer for your manifest.json files.
+- 🔌 **[System one](https://github.com/iamaamir/system-one)** - Provider-neutral System One runtime for TypeScript.
 - 🌉 **[Pi-Bifrost](https://github.com/iamaamir/pi-bifrost)** - Automatic model routing for pi.
+- 💬 **[amq-bridge](https://github.com/iamaamir/amq-bridge)** - Plug agents together across different sessions.
 - ⚡ **[Check all](https://github.com/iamaamir?tab=repositories)**
 
 ---
